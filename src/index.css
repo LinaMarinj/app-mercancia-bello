@@ -7,7 +7,7 @@
 .panel-control {
   width: 100%;
   height: 100vh;
-  background-image: url(../public/mercancia-fondo.webp);
+  background-image: url(../public/fondo.webp);
   background-position: center center;
   background-size: cover;
   display: flex;
@@ -37,8 +37,8 @@
 }
 
 .panel-control-aside div img{
-  width: 240%;
-  height: 240px;
+  width: 200%;
+  height: 250px;
   border-radius: 50%;
   border: solid 1px black;
 }
